@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Dec  2 15:52:16 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : tank_duel
+Top-level Entity Name : tank_duel
+Family : Cyclone IV E
+Total logic elements : 986
+    Total combinational functions : 876
+    Dedicated logic registers : 332
+Total registers : 332
+Total pins : 60
+Total virtual pins : 0
+Total memory bits : 614,400
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
